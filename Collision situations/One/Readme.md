@@ -2,7 +2,7 @@
 
 Content:
 
-* Dataset for the _BN model_ with a _Normal_ traffic (_BN-CS1_Normal_T.csv _).
+* Dataset for the _BN model_ with a _Normal_ traffic (_BN-CS1_Normal_T.csv_).
 
 * Dataset for the _2-TBN model_ with a _Normal_ traffic (_2-TBN-CS1_Normal_T.csv_).
 
